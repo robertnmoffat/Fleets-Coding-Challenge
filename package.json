@@ -1,0 +1,17 @@
+{
+  "name": "fleets-coding-challenge",
+  "version": "1.0.0",
+  "description": "Typescript coding challenge for Fleets internship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@types/node": "^20.4.2"
+  }
+}
